@@ -44,7 +44,7 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 
 ## **6. Task Breakdown**
 
-### 🟢 **Light Dose**
+###  **Light Dose**
 
 #### 🔹 Question 1: Rover System Check
 - Simulated a series of rover diagnostics using a Bash script.
@@ -57,6 +57,8 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 **My Approach:**
 - Broke the problem into individual checks and tested each block.
 - Used `echo` and `if-else` constructs to validate system behavior step by step.
+**Script:** [light_2nd.sh](./light_2nd.sh)
+
 
 ---
 
