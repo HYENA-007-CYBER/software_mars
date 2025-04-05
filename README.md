@@ -87,6 +87,8 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
  **Script:**
 - [medium-2](./medium_1st.py)
 
+  ---
+
 
 #### 🔹 Question 3: Encrypted Message Decoding
 - THE Logic was the characters shifted back according to its postion in the word
@@ -101,7 +103,9 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 - Implemented and compared three filtering strategies on noisy sensor data.
 - Used standard deviation to compare between the filters.
 - Two hybrid filters have been created.(refer to script below)
-  
+
+  **Script:**
+- [medium-4](./medium_4th.py)
 
 ---
 
@@ -111,6 +115,8 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 - Developed a code for it
 - Verified results using sample angle inputs and quaternion libraries.
 
+**Script:**
+- [medium-5](./medium_5th.py)
 
 ---
 
@@ -135,6 +141,9 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 - Designed a behavior tree to model rover decisions in a A4 sheet.
 - Used fallback and sequence nodes for clean logical flow.
 - Understood the terms and wrote answer in paper.
+
+  **Script:**
+- [hard-3](./hard_3rd.py)
 
 
 
