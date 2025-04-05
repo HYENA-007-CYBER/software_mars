@@ -46,8 +46,9 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
 ###  **Medium Dose**
 
 ####  Question 1: Marker Navigation
-- I just added 55 units to z co_ordinate 
-- And wrote a function to calculate distance from origin 
+- I just added 55 units to z co_ordinate to get new frame of reference
+- And wrote a function to calculate distance from origin
+- Got input co_ordinates from user
 
 
  **Script:**
