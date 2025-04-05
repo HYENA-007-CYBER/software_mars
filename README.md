@@ -133,7 +133,11 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
 --- 
 
 ### THE SCREENSHOT OF COMMANDS DONE IN TERMINAL
--[ScreenShot - 1](./hard_3rd.pdf)
+-[ScreenShot - 1](./screenshot1.jpg)
+-[ScreenShot - 2](./screenshot2.jpg)
+-[ScreenShot - 3](./screenshot3.jpg)
+
+
   
   
 
