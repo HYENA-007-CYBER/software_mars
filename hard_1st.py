@@ -1,12 +1,12 @@
 def read_obstacle_file(file_path):
-    list = []  # INITIALIZE EMPTY LIST
+    l = []  # INITIALIZE EMPTY LIST
 
     with open(file_path, 'r') as file:
         for line in file:
             coordinates = list(map(int, line.strip().split()))  # CONVERT LINE TO LIST OF INTEGERS
-            list.append(coordinates)  # APPEND TO LIST
+            l.append(coordinates)  # APPEND TO L
 
-    return list  # RETURN FINAL LIST
+    return l  # RETURN FINAL LIST
 
 file_path = "sample.txt"  # U CAN UPDATE WITH ANY TEXT U WANT
 obstacle_list = read_obstacle_file(file_path)
@@ -34,7 +34,7 @@ for moves in obstacle_list:
     grid[x][y] = 0
 
 # Print updated grid
-PRINT("ARENA:\n")
+print("ARENA:\n")
 print(grid)
 from collections import deque
 
