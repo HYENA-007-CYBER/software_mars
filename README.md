@@ -3,7 +3,7 @@
 **Languages Used:** Bash, Python  
 
 ---
-## **1. Overview**
+## ** Overview**
 
 This repository contains my solutions for the MaRS Recruitment task #1.<br>I have done coding for all questions on my own and i used chatgpt for a better understanding  on each question.<br>I have added neccessary comments in my code script.
 
@@ -20,29 +20,10 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
 ---
 
 
-## **7. Overall Learning Experience**
-
-Working through the MaRS Recruitment Task was both intellectually stimulating and highly rewarding. Here's what I gained from this experience:
-
-- **System-Level Thinking:** Through the Bash scripting and Linux-based tasks, I developed a deeper understanding of how real rover systems might operate, with emphasis on diagnostics, file handling, and command-line automation.
-
-- **Algorithmic Problem Solving:** The Medium Dose challenges helped sharpen my skills in string processing, cipher breaking, spatial logic, and filtering algorithms — all essential in autonomous robotics and embedded systems.
-
-- **Mathematical Modeling & Orientation:** Implementing 3D to 4D orientation conversions introduced me to quaternions and their role in spatial navigation, which is crucial for robotics and aerospace applications.
-
-- **Data Noise Handling:** Comparing different filters (Muchiko, Sanchiko, Hybrid) gave me practical insight into how sensor data can be cleaned for real-time decision-making.
-
-- **Pathfinding & Grid Analysis:** In the Hard Dose, I learned how to build and navigate grid-based maps using BFS. This solidified my understanding of graph traversal in constrained environments.
-
-- **Behavior Tree Design:** Creating a decision-making structure for the rover taught me how complex logic can be broken down into maintainable, visual components — a powerful concept in robotics programming.
-
-- **Version Control & Documentation:** Throughout the task, I followed Git best practices and wrote clear, structured documentation to reflect industry-level coding standards.
-
-> 🚀 Overall, this challenge felt like a real-world mission planning exercise. It tested my logic, coding clarity, and ability to think like a robotic systems engineer — and I thoroughly enjoyed the journey.
 
 ---
 
-## **6. Learnings & Approach of all problems**
+## ** Learnings & Approach of all problems**
 
 ###  **Light Dose**
 
