@@ -46,18 +46,15 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
 ###  **Medium Dose**
 
 ####  Question 1: Marker Navigation
-- Wrote a function to decode directions from grid markers.
-- Used matrix manipulation to simulate rover movement.
+- I just added 55 units to z co_ordinate 
+- And wrote a function to calculate distance from origin 
 
-**Challenges Faced:**
-- Navigating a 2D grid based on encoded markers.
-- Avoiding index out-of-bound errors during movement.
 
-**My Approach:**
-- Represented the map as a matrix and simulated movements based on marker instructions.
-- Implemented boundary checks and unit tests for each move.
+ **Script:**
+- [medium-1](./medium_1st.py)
 
----
+  ---
+
 
 ####  Question 2: Morse Decoder
 - To get information about morse code for alphabets and numbers i used chatgpt.
@@ -66,7 +63,7 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
 - It can give u decoded msg for big paragraphs witten in morse also.
 
  **Script:**
-- [medium-2](./medium_1st.py)
+- [medium-2](./medium_2nd.py)
 
   ---
 
