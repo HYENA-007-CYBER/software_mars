@@ -15,7 +15,7 @@ obstacle_list = read_obstacle_file(file_path)
 print(obstacle_list)
 import numpy as np#USING NUMPY TO CREATE GRID
 grid = np.ones((11, 11), dtype=int) # SINCE THE FINAL DESTINATION IS (10,10) A  ARENA GRID OF 11*11 IS CREATED
-print(grid)
+
 # FUNCTION TO MAKE ZEROS AT OBSTACLE POSITION
 def moves_from_origin(origin, moves):
     x, y = origin
@@ -34,6 +34,7 @@ for moves in obstacle_list:
     grid[x][y] = 0
 
 # Print updated grid
+PRINT("ARENA:")
 print(grid)
 from collections import deque
 
