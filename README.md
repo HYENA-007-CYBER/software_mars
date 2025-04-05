@@ -42,7 +42,7 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 
 ---
 
-## **6. Learnings & Approach of all questions**
+## **6. Learnings & Approach of all problems**
 
 ###  **Light Dose**
 
@@ -52,27 +52,13 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 
   **My Approach:**
 - Gone through some you-tube vedios to get a idea about Linux Commands related to navigation, file handling, and permissions.
+- Googled for unknown commands.
 - I broke out the problem into individual checks and tested each block.
 - Used `echo` and `if-else` blocks to validate system behavior step by step.
   
   **Script:**
 - [1st question](./soft_mars.sh)
 - [2nd question](./light_2nd.sh)
-
-
----
-
-#### 🔹 Question 2: Terminal-Based Rover Task
-- Practiced common Linux commands related to navigation, file handling, and permissions.
-- Reinforced shell scripting skills through real-world robotic context.
-
-**Challenges Faced:**
-- Remembering specific syntax for file and directory operations.
-- Understanding permission errors and how to resolve them.
-
-**My Approach:**
-- Referred to Linux man pages and practiced each command in the terminal.
-- Used `chmod`, `ls -l`, and `pwd` to verify operations and access rights.
 
 ---
 
@@ -93,16 +79,18 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 ---
 
 #### 🔹 Question 2: Morse Decoder
-- Created a Python script to translate Morse signals to readable messages.
-- Handled edge cases like spacing and special characters.
+- 
+- 
+  
 
 **Challenges Faced:**
 - Handling inconsistent spacing between Morse symbols.
 - Managing unknown or invalid characters.
 
 **My Approach:**
+- 
 - Built a Morse-to-text dictionary.
-- Split input based on spaces and iterated carefully through each symbol.
+- Split input based on spaces and iterated through each symbol.
 
 ---
 
