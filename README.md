@@ -57,8 +57,8 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 - Used `echo` and `if-else` blocks to validate system behavior step by step.
   
   **Script:**
-- [1st question](./soft_mars.sh)
-- [2nd question](./light_2nd.sh)
+- [light_1](./soft_mars.sh)
+- [light_2](./light_2nd.sh)
 
 ---
 
@@ -79,67 +79,46 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 ---
 
 #### 🔹 Question 2: Morse Decoder
-- 
-- 
-  
-
-**Challenges Faced:**
-- Handling inconsistent spacing between Morse symbols.
-- Managing unknown or invalid characters.
-
-**My Approach:**
-- 
+- To get information about morse code for alphabets and numbers i used chatgpt.
 - Built a Morse-to-text dictionary.
-- Split input based on spaces and iterated through each symbol.
+- Traversed through input and got corresponding decoded character from dictionary.
+- It can give u decoded msg for big paragraphs witten in morse also.
 
----
+ **Script:**
+- [medium-2](./medium_1st.py)
+
 
 #### 🔹 Question 3: Encrypted Message Decoding
-- Decoded a custom cipher using reverse logic.
-- Developed a reusable decryptor function.
-
-**Challenges Faced:**
-- Understanding the shifting pattern used in encryption.
-- Managing wrap-around cases in the alphabet.
-
-**My Approach:**
-- Reverse engineered the cipher by analyzing output patterns.
-- Created a loop that decodes each character while preserving non-alphabet symbols.
+- THE Logic was the characters shifted back according to its postion in the word
+- Devoloped a code for it.
+  
+   **Script:**
+- [medium-3](./medium_3rd.py)
 
 ---
 
 #### 🔹 Question 4: Data Filtering (Muchiko, Sanchiko, Hybrid)
 - Implemented and compared three filtering strategies on noisy sensor data.
-- Evaluated the effectiveness of each in a simulated rover environment.
-
-**Challenges Faced:**
-- Choosing the right filter parameters.
-- Understanding when each filtering method performs best.
-
-**My Approach:**
-- Wrote separate functions for each filter.
-- Ran simulations with varied input sets and compared output accuracy.
+- Used standard deviation to compare between the filters.
+- Two hybrid filters have been created.(refer to script below)
+  
 
 ---
 
 #### 🔹 Question 5: Euler to Martian 4D Orientation
-- Converted Euler angles to quaternions.
-- Studied 4D orientation systems used in aerospace and robotics.
-
-**Challenges Faced:**
-- Understanding quaternion math and conversion logic.
-- Ensuring numerical stability in calculations.
-
-**My Approach:**
-- Referred to aerospace math documentation.
+- I used chatgpt to understand quaternion math and conversion logic.
+- Understood the term "Gimbal Lock"
+- Developed a code for it
 - Verified results using sample angle inputs and quaternion libraries.
+
 
 ---
 
 ### 🔴 **Hard Dose**
 
 #### 🔹 Problem 1: Obstacle Map & Shortest Path
-- Parsed an obstacle map and built a matrix representation.
+- Studied the obstacle map and built a arena using matrix.
+- I had
 - Implemented BFS to find the shortest navigable path.
 
 **Challenges Faced:**
@@ -153,16 +132,11 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 ---
 
 #### 🔹 Problem 3: Behavior Tree Design
-- Designed a behavior tree to model rover decisions.
+- Designed a behavior tree to model rover decisions in a A4 sheet.
 - Used fallback and sequence nodes for clean logical flow.
+- Understood the terms and wrote answer in paper.
 
-**Challenges Faced:**
-- Structuring the tree to handle edge cases and priorities effectively.
-- Understanding how behavior trees differ from traditional conditional logic.
 
-**My Approach:**
-- Sketched the tree before coding to visualize the flow.
-- Used modular functions to simulate node behavior and tree traversal.
 
 ---
 
