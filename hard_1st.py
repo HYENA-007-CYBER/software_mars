@@ -34,7 +34,7 @@ for moves in obstacle_list:
     grid[x][y] = 0
 
 # Print updated grid
-PRINT("ARENA:")
+PRINT("ARENA:\n")
 print(grid)
 from collections import deque
 
