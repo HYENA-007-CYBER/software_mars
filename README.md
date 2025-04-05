@@ -104,17 +104,14 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
 ###  **Hard Dose**
 
 ####  Problem 1: Obstacle Map & Shortest Path
-- Studied the obstacle map and built a arena using matrix.
-- I had
+- I built a arena grid of 11*11 USING NUMPY
+- READ THE [obstacle file](./sample.txt) and placed zeros with respect to center
 - Implemented BFS to find the shortest navigable path.
+- I have already done breadth first search algothirm in my BS IN DATA SCIENCE ONLINE DEGREE IN IIT MADRAS
+- Refer code script for dettailled comments
 
-**Challenges Faced:**
-- Reading the map accurately and maintaining grid coordinates.
-- Implementing BFS in a way that handled obstacles efficiently.
-
-**My Approach:**
-- Used nested lists to model the obstacle grid.
-- Applied BFS with a visited set to ensure optimal traversal.
+  **Script:**
+- [hard-1](./hard_1st.py)
 
 ---
 
@@ -124,7 +121,7 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
 - Understood the terms and wrote answer in paper.
 
   **Script:**
-- [hard-3](./hard_3rd.py)
+- [hard-3](./hard_3rd.)
 
 
 ---
