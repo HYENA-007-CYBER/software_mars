@@ -1,16 +1,14 @@
-# Function to read the file and store contents as a nested list
 def read_obstacle_file(file_path):
-    nested_list = []  # Initialize empty list
+    list = []  # INITIALIZE EMPTY LIST
 
     with open(file_path, 'r') as file:
         for line in file:
-            coordinates = list(map(int, line.strip().split()))  # Convert line to list of integers
-            nested_list.append(coordinates)  # Append to nested list
+            coordinates = list(map(int, line.strip().split()))  # CONVERT LINE TO LIST OF INTEGERS
+            list.append(coordinates)  # APPEND TO LIST
 
-    return nested_list  # Return final nested list
+    return list  # RETURN FINAL LIST
 
-# Example usage
-file_path = "sample.txt"  # Update with the actual file location
+file_path = "sample.txt"  # U CAN UPDATE WITH ANY TEXT U WANT
 obstacle_list = read_obstacle_file(file_path)
 
 # Print the nested list
@@ -61,12 +59,10 @@ def bfs(grid, start, end):
 
             # CHECK IF THE POSITION DOESNOT CONTAIN OBSTACLE AND DOESNOT EXCEED GRID
             if 0 <= nx < n and 0 <= ny < n and grid[nx][ny] == 1 and (nx, ny) not in visited:
-                visited.add((nx, ny))
-                queue.append(((nx, ny), path + [(nx, ny)]))
+                visited.add((nx, ny))#ADD TO VISITED LOCATION
+                queue.append(((nx, ny), path + [(nx, ny)]))#ADD TO QUEUE THE CURRENT LOCATION AND UPDATE THE PATH LIST 
 
-    
-
-# Start and end points
+# START AND END POINTS
 start = (0, 0)
 end = (10, 10)
 
