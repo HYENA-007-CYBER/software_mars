@@ -48,16 +48,16 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 
 #### 🔹 Question 1 & Question 2: 
 - I am not very much known to terminal commands in Linux.
-- 
+- I just know some basic commands.
 
-**Challenges Faced:**
-- Debugging syntax errors and ensuring correct logical flow in the shell script.
-- Handling command outputs for different system checks.
-
-**My Approach:**
-- Broke the problem into individual checks and tested each block.
-- Used `echo` and `if-else` constructs to validate system behavior step by step.
-**Script:** [light_2nd.sh](./light_2nd.sh)
+  **My Approach:**
+- Gone through some you-tube vedios to get a idea about Linux Commands related to navigation, file handling, and permissions.
+- I broke out the problem into individual checks and tested each block.
+- Used `echo` and `if-else` blocks to validate system behavior step by step.
+  
+  **Script:**
+- [1st question](./soft_mars.sh)
+- [2nd question](./light_2nd.sh)
 
 
 ---
