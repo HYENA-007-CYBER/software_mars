@@ -42,13 +42,13 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 
 ---
 
-## **6. Task Breakdown**
+## **6. Learnings & Approach of all questions**
 
 ###  **Light Dose**
 
-#### 🔹 Question 1: Rover System Check
-- Simulated a series of rover diagnostics using a Bash script.
-- Used conditional statements and process outputs to mimic real-time behavior.
+#### 🔹 Question 1 & Question 2: 
+- I am not very much known to terminal commands in Linux.
+- 
 
 **Challenges Faced:**
 - Debugging syntax errors and ensuring correct logical flow in the shell script.
