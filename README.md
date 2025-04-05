@@ -46,7 +46,7 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 
 ###  **Light Dose**
 
-#### 🔹 Question 1 & Question 2: 
+####  Question 1 & Question 2: 
 - I am not very much known to terminal commands in Linux.
 - I just know some basic commands.
 
@@ -62,9 +62,9 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 
 ---
 
-### 🟡 **Medium Dose**
+###  **Medium Dose**
 
-#### 🔹 Question 1: Marker Navigation
+####  Question 1: Marker Navigation
 - Wrote a function to decode directions from grid markers.
 - Used matrix manipulation to simulate rover movement.
 
@@ -78,7 +78,7 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 
 ---
 
-#### 🔹 Question 2: Morse Decoder
+####  Question 2: Morse Decoder
 - To get information about morse code for alphabets and numbers i used chatgpt.
 - Built a Morse-to-text dictionary.
 - Traversed through input and got corresponding decoded character from dictionary.
@@ -90,7 +90,7 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
   ---
 
 
-#### 🔹 Question 3: Encrypted Message Decoding
+####  Question 3: Encrypted Message Decoding
 - THE Logic was the characters shifted back according to its postion in the word
 - Devoloped a code for it.
   
@@ -99,7 +99,7 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 
 ---
 
-#### 🔹 Question 4: Data Filtering (Muchiko, Sanchiko, Hybrid)
+####  Question 4: Data Filtering (Muchiko, Sanchiko, Hybrid)
 - Implemented and compared three filtering strategies on noisy sensor data.
 - Used standard deviation to compare between the filters.
 - Two hybrid filters have been created.(refer to script below)
@@ -109,7 +109,7 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 
 ---
 
-#### 🔹 Question 5: Euler to Martian 4D Orientation
+####  Question 5: Euler to Martian 4D Orientation
 - I used chatgpt to understand quaternion math and conversion logic.
 - Understood the term "Gimbal Lock"
 - Developed a code for it
@@ -120,9 +120,9 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 
 ---
 
-### 🔴 **Hard Dose**
+###  **Hard Dose**
 
-#### 🔹 Problem 1: Obstacle Map & Shortest Path
+####  Problem 1: Obstacle Map & Shortest Path
 - Studied the obstacle map and built a arena using matrix.
 - I had
 - Implemented BFS to find the shortest navigable path.
@@ -137,7 +137,7 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 
 ---
 
-#### 🔹 Problem 3: Behavior Tree Design
+####  Problem 3: Behavior Tree Design
 - Designed a behavior tree to model rover decisions in a A4 sheet.
 - Used fallback and sequence nodes for clean logical flow.
 - Understood the terms and wrote answer in paper.
@@ -146,8 +146,8 @@ Working through the MaRS Recruitment Task was both intellectually stimulating an
 - [hard-3](./hard_3rd.py)
 
 
-
 ---
+
 
 
 
