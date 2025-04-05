@@ -38,7 +38,7 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
 - Used `echo` and `if-else` blocks to validate system behavior step by step.
   
   **Script:**
-- [light_1](./soft_mars.sh)
+- [light_1](./light_1st.sh)
 - [light_2](./light_2nd.sh)
 
 ---
