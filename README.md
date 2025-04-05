@@ -130,7 +130,11 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
 - All problems were written in text edittor in LINUX
 - 3RD Question of hard dose is uploaded as pdf from Windows
 - The files are pushed into github using terminal
-- THE SCREENSHOT OF COMMANDS DONE IN TERMINAL
+--- 
+
+### THE SCREENSHOT OF COMMANDS DONE IN TERMINAL
+-[ScreenShot - 1](./hard_3rd.pdf)
+  
   
 
 
