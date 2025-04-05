@@ -121,7 +121,7 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
 - Understood the terms and wrote answer in paper.
 
   **Script:**
-- [hard-3](./hard_3rd.)
+- [hard-3](./hard_3rd.pdf)
 
 
 ---
