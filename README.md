@@ -40,9 +40,10 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
   **Script:**
 - [light_1](./light_1st.sh)
 - [light_2](./light_2nd.sh)
+  
  **Screenshot of basic terminal commands done on terminal:**
-- [Screenshot_1](./bts_ss_1.jpg)
-- [Screensot_2](./bts_ss_2.jpg)
+- [Screenshot_1](./btc_ss_1.jpg)
+- [Screenshot_2](./btc_ss_2.jpg)
   
 
 ---
