@@ -12,7 +12,7 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
 ### Project Completion Summary
 
 - Completed **all Light Dose** problems (Bash scripting and terminal-based tasks)
-- Completed **all Medium Dose** problems (Python-based logic, filtering, decoding, and orientation)
+- Completed **all Medium Dose** problems (Python-based logic, filtering, decoding)
 - Completed **Hard Dose**:
   -  Problem 1: Obstacle Map & Pathfinding
   -  Problem 3: Behavior Tree Design
@@ -115,6 +115,7 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
 
 ####  Problem 3: Behavior Tree Design
 - Designed a behavior tree to model rover decisions in a A4 sheet.
+- Took reference from You-Tube.
 - Used fallback and sequence nodes for clean logical flow.
 - Understood the terms and wrote answer in paper.
 
