@@ -137,7 +137,17 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
 -[ScreenShot - 3](./screenshot3.jpg)<br>
 - After this i done this command in terminal: [ git commit -m "medium" ] and pushed the files to github repo
 - I forgot to take ScreenShot of it and closed the terminal.
-  
+
+  ---
+
+## **Participation in Maze Rover**
+
+- I went through the github repo and installed ros 
+- I Played the game and completed the maze for Round 1
+- For Round 2 I was going through the coding part
+- Since my laptop is comparitively old one , installation of ros took a lot of time and i didnt get much time to complete the coding round
+
+--- 
 
 
   
