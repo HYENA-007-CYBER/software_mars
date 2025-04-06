@@ -3,7 +3,7 @@
 **Languages Used:** Bash, Python  
 
 ---
-## ** Overview**
+## **Overview**
 
 This repository contains my solutions for the MaRS Recruitment task #1.<br>I have done coding for all questions on my own and i used chatgpt for a better understanding  on each question.<br>I have added neccessary comments in my code script.
 
@@ -40,6 +40,10 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
   **Script:**
 - [light_1](./light_1st.sh)
 - [light_2](./light_2nd.sh)
+ **Screenshot of basic terminal commands done on terminal:**
+- [Screenshot_1](./bts_ss_1.jpg)
+- [Screensot_2](./bts_ss_2.jpg)
+  
 
 ---
 
