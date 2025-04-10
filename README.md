@@ -23,7 +23,7 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
 
 ---
 
-## ** Learnings & Approach of all problems**
+## **Learnings & Approach of all problems**
 
 ###  **Light Dose**
 
