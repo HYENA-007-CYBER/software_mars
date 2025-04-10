@@ -137,7 +137,7 @@ This repository contains my solutions for the MaRS Recruitment task #1.<br>I hav
 - I created tokens to push my files
 --- 
 
-### THE SCREENSHOT OF COMMANDS DONE IN TERMINAL
+### **THE SCREENSHOT OF COMMANDS DONE IN TERMINAL**
 -[ScreenShot - 1](./screenshot1.jpg)<br>
 -[ScreenShot - 2](./screenshot2.jpg)<br>
 -[ScreenShot - 3](./screenshot3.jpg)<br>
