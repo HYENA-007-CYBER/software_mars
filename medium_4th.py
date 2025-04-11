@@ -7,7 +7,7 @@ print(data)
 
 size= 3 # declaring globally (Can easily change here)
 import numpy as np#for standard deviation
-data = [4, 7, 6, 1, 8]
+
 def muchiko_filter(data, size):# getting average
     muchiko = []  
     for i in range(len(data) - size + 1):
